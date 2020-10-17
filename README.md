@@ -1,4 +1,4 @@
-Project to demonstrate AWS Lambda Node 10 Runtime, with serverless framework and automatic deployment using Github Action
+Project to demonstrate AWS Lambda Node 12 Runtime, with serverless framework and automatic deployment using Github Action
 
 # Requirements
 1. Node JS 12.x.x
