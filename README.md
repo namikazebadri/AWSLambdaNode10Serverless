@@ -5,6 +5,7 @@ Project to demonstrate AWS Lambda Node 12 runtime, with serverless framework and
 1. Node JS 12.x.x
 2. NPM 6.x.x
 3. Serverless framework version >= 2.6.0
+4. AWS CLI with valid credential
 
 # Implementation
 These are points implemented in this repository
